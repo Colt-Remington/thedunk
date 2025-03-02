@@ -1,13 +1,11 @@
 "publishConfig": {
-  "@Colt-Remington:registry": "https://npm.pkg.github.com"
+  "@Colt-Remington:registry": "https://npm.https://github.com/Colt-Remington/thedunk.github.com"
 },
  {
-  "name": "thedunk",
+  "name": "PDUNKN.COM - Jeeps; Dusy-Ershium Trail; Trails near Lake Havasu City",
   "version": "1.0.1",
   "description": "Hairy Cell Leukemia; Jeeps; The Dusy-Ershim Trail; Trails near Lake Havasu City",
-  "homepage": "https://github.com/Colt-Remington/thedunk#readme",
-  "bugs": {
-    "url": "https://github.com/Colt-Remington/thedunk/issues"
+  "homepage": "https://github.com/Colt-Remington/thedunk#index",
   },
   "repository": {
     "type": "git",
